@@ -16,8 +16,8 @@ public class Main{ // Main 클래스 정의
         A=scanner.nextInt(); // 사용자로부터 정수 입력받기
         B=scanner.nextInt(); // 사용자로부터 정수 입력받기
         
-        System.out.println(A-B);
+        System.out.println(A-B); // 결과 출력하기
         
-        scanner.close();
+        scanner.close(); // 스캐너 종료하기
     }
 }
